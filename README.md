@@ -1,4 +1,4 @@
-<html>
+
 <title>TE QUIERO 
 </title>
 <body>
@@ -84,4 +84,4 @@ asi q dime: ¿quieres estar conmigo?<br>
 </tr>
 </table>
 </body>
-</html>
+
